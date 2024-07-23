@@ -1,4 +1,5 @@
 # MegaDL CLI Tool
+![image](https://github.com/user-attachments/assets/e427d604-d115-4b2e-aeef-01c411bab38b)
 
 ## Description
 
